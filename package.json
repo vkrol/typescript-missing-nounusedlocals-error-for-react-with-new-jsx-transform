@@ -1,0 +1,14 @@
+{
+  "name": "typescript-missing-nounusedlocals-error-for-react-with-new-jsx-transform",
+  "private": "true",
+  "scripts": {
+    "typecheck": "yarn tsc"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "typescript": "4.1.2"
+  },
+  "dependencies": {
+    "react": "17.0.1"
+  }
+}
